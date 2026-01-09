@@ -7,9 +7,13 @@ ________________________________________
 Project Objectives                                                                 
 
 •	Analyze overall sales performance and key business metrics
+
 •	Identify top-performing product categories and items
+
 •	Evaluate outlet performance by type, size, and location
+
 •	Understand customer preferences using ratings and product attributes
+
 •	Build an interactive dashboard for easy insight generation
 ________________________________________
 Data Source
