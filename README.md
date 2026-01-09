@@ -19,36 +19,51 @@ ________________________________________
 Data Source
 
 •	Source: Kaggle
+
 •	Description: Publicly available Blinkit sales dataset containing sales transactions, product details, outlet information, and customer ratings.
+
 •	The dataset was used for data cleaning, analysis, KPI calculation, and visualization.
 ________________________________________
 Key Performance Indicators (KPIs)
 
 •	Total Sales
+
 •	Average Sales
+
 •	Number of Items Sold
+
 •	Average Customer Rating
 ________________________________________
 Key Insights
 
 •	Generated $1.20M+ total sales across 8,523 items, indicating strong overall performance.
+
 •	Fruits, Snacks, Household, and Dairy categories contributed the highest revenue.
+
 •	Regular fat products outperformed low-fat products in total sales.
+
 •	Medium-sized outlets showed the highest sales contribution.
+
 •	Tier 3 locations outperformed Tier 1 and Tier 2 in overall sales.
+
 •	Supermarket Type 1 outlets generated the highest revenue.
 ________________________________________
 Tools & Technologies Used
 
 •	Excel: Data cleaning and preprocessing
+
 •	SQL: Data extraction, filtering, aggregation, and KPI calculations
+
 •	Power BI: Data modeling, DAX measures, and interactive dashboard creation
 ________________________________________
 Dashboard Features
 
 •	Interactive filters and slicers
+
 •	Category-wise and outlet-wise performance analysis
+
 •	KPI cards for quick insights
+
 •	Trend analysis using charts and visuals
 _______________________________________
 Project Outcome
